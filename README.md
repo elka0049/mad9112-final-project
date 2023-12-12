@@ -16,4 +16,4 @@ function getDaysUntilChristmas() {
 console.log("there are "+getDaysUntilChristmas()+" days left for christmas");
 
 ![screenshot1](./screenshots/Screenshot%202023-12-12%20at%202.01.25%20PM.png)
-1[screenshot2](./screenshots/Screenshot%202023-12-12%20at%202.29.06%20PM.png)
+![screenshot2](./screenshots/Screenshot%202023-12-12%20at%202.29.06%20PM.png)
